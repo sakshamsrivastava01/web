@@ -1,0 +1,6 @@
+* upstream, downstream
+* ways- manual, automated, hybrid
+* 2015, Bloomberg terminal
+* continuous testing should be done
+* 4 w's of testing
+* shift left + shift right approach
